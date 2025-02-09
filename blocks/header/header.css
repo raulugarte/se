@@ -20,7 +20,9 @@ header nav {
 }
 
 header nav a:any-link {
-  color: currentcolor;
+  /* RUG 
+  color: currentcolor; */
+  color: white;
 }
 
 header nav[aria-expanded='true'] {
