@@ -169,6 +169,8 @@ a.button:any-link, button {
   color: var(--button-text-color);
   background-color: var(--button-background-color);
   */
+  border-color: #b96cff;
+  
   color: white;
   background-color: #1b1534;
   text-transform: uppercase;
