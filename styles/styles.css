@@ -170,12 +170,13 @@ a.button:any-link, button {
   background-color: var(--button-background-color);
  border-radius: var(--button-border-radius);
  border: 2px solid transparent;
+ color: white;
   */
   border-color: #b96cff;
   border-radius: 30px; 
  border: 2px solid #b96cff;
   
-  color: white;
+  color: #b96cff;
   background-color: #1b1534;
   text-transform: uppercase;
   font-size: 14px;
