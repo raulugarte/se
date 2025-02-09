@@ -267,7 +267,7 @@ header nav[aria-expanded='true'] .nav-tools li {
 header .header-topbar {
   height: 25px;
   /* background-color: black; */
-  background-color: #e20074;
+  background-color: #1b1534;
   color: var(--text-color-light);
   display: flex;
   justify-content: space-between;
