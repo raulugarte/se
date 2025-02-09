@@ -13,7 +13,10 @@
 .teaser > div > div:first-child {
     height: 40pc;
     max-height: 40pc;
-    width: 100%;
+
+    /* RUG 
+    width: 100%; */
+    width: 120%;
 }
 
 /* teaser content */
