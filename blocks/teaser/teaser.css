@@ -28,6 +28,16 @@
     font-size: 18px;
     margin: 0;
     line-height: 1.75;
+
+/*RUG*/
+
+        bottom: 0;
+    color: var(--white);
+    margin-bottom: 90px;
+    padding-inline-end: calc(var(--container-gutter-x)* .5);
+    padding-inline-start: calc(var(--container-gutter-x)* .5);
+    position: absolute;
+    
 }
 
 .teaser picture {
@@ -49,7 +59,7 @@
     height: 100%;
 }
 
-
+/* RUG */
 .teaser h1 {
     font-family: var(--body-font-family);
     margin: .5em 0;
