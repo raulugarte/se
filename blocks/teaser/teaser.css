@@ -32,7 +32,7 @@
 /*RUG*/
 
         bottom: 0;
-    color: var(--white);
+    color: white;
     margin-bottom: 90px;
     padding-inline-end: calc(var(--container-gutter-x)* .5);
     padding-inline-start: calc(var(--container-gutter-x)* .5);
