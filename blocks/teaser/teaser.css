@@ -21,7 +21,10 @@
 
 /* teaser content */
 .teaser > div > div:last-child {
-    background-color: #fff;
+    
+    /*RUG 
+    background-color: #fff; */
+  
     min-height: 180px;
     width: 75%;
     padding: 0 28px;
