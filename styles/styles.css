@@ -14,7 +14,7 @@
   /* colors */
   /* --> RUG
   --color-yellow: #ffea00; */
-  --color-yellow: #e20074;
+  --color-yellow: #1b1534;
   --link-color: black;
   --link-hover-color: black;
   --background-color: #fff;
@@ -24,7 +24,7 @@
   --text-color-light: #ebebeb;
   /* --> RUG
    --heading-highlight-color: #ffea00; */
-  --heading-highlight-color: #e20074;
+  --heading-highlight-color: #1b1534;
   --overlay-text-color: var(--text-color);
   --highlight-text-color: var(--text-color);
 
@@ -170,7 +170,7 @@ a.button:any-link, button {
   background-color: var(--button-background-color);
   */
   color: white;
-  background-color: #e20074;
+  background-color: #1b1534;
   text-transform: uppercase;
   font-size: 14px;
   padding: var(--button-padding);
