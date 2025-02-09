@@ -169,9 +169,11 @@ a.button:any-link, button {
   color: var(--button-text-color);
   background-color: var(--button-background-color);
  border-radius: var(--button-border-radius);
+ border: 2px solid transparent;
   */
   border-color: #b96cff;
   border-radius: 30px; 
+ border: 2px solid #b96cff;
   
   color: white;
   background-color: #1b1534;
@@ -183,7 +185,7 @@ a.button:any-link, button {
   display: inline-block;
   box-sizing: border-box;
   text-decoration: none;
-  border: 2px solid transparent;
+  
   text-align: center;
   font-style: normal;
   cursor: pointer;
