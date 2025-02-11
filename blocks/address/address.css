@@ -4,7 +4,8 @@
 }
 
 .address img {
-    width: 100%;
+    /* RUG
+    width: 100%; */
 }
 
 @media (min-width: 900px) {
