@@ -1,1 +1,36 @@
+.address > div {
+    display: flex;
+    flex-direction: column;
+}
 
+.address img {
+    width: 100%;
+}
+
+@media (min-width: 900px) {
+    .address > div {
+        display: flex;
+        align-items: center;
+        flex-direction: unset;
+        /*RUG */
+        background-color: grey;
+        color: black;
+    }
+
+    .address > div > div {
+        flex: 1;
+        margin-left: 32px;
+    }
+
+    .address > div > div:first-of-type {
+        margin-left: unset;
+    }
+}
+
+.address h1{
+
+        font-size: 42px;
+        letter-spacing: -.3px;
+        line-height: 50px;
+    
+}
