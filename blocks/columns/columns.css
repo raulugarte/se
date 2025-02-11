@@ -12,6 +12,8 @@
         display: flex;
         align-items: center;
         flex-direction: unset;
+        /*RUG */
+        background-color: #1b1534;
     }
 
     .columns > div > div {
