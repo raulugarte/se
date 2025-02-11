@@ -16,6 +16,10 @@
         background-color: #f2f2f2;
         color: black;
         padding: 24px;
+
+                font-size: 18px;
+        letter-spacing: .2px;
+        line-height: 28px;
     }
 
     .address > div > div {
