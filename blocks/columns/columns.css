@@ -34,3 +34,20 @@
         line-height: 50px;
     
 }
+
+
+.grey h1{
+
+        font-size: 42px;
+        letter-spacing: -.3px;
+        line-height: 50px;
+    
+}
+
+.grey > div {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
