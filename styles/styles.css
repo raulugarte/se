@@ -30,8 +30,8 @@
 
   /* fonts */
   --body-font-family: 'Source Sans Pro', 'helvetica neue', helvetica, ubuntu, roboto, noto, sans-serif;
-  --heading-font-family: asar, georgia, 'Times New Roman', times, serif;
-  --fixed-font-family: 'Roboto Mono', menlo, consolas, 'Liberation Mono', monospace;
+  --heading-font-family: 'Source Sans Pro', 'helvetica neue', helvetica, ubuntu, roboto, noto, sans-serif;
+  --fixed-font-family: 'Source Sans Pro', 'helvetica neue', helvetica, ubuntu, roboto, noto, sans-serif;
 
   /* body sizes */
   --body-font-size-m: 22px;
