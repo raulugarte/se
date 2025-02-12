@@ -61,7 +61,7 @@ export default async function decorate(block) {
     block.prepend(topBar);
     /* RUG 
     topBar.innerHTML = '<div>Sign In</div><div class="header-markets"><span class="icon icon-flag-us"></span>EN-US<span class="header-chevron-down"></span></div>'; */
-  topBar.innerHTML = '<div></div><div class="header-markets"><span class="icon icon-flag-us"></span><span class="header-chevron-down"></span></div>';
+  topBar.innerHTML = '<div></div><div class="header-markets"><span ></span><span ></span></div>';
 
     
     nav.prepend(hamburger);
