@@ -120,7 +120,7 @@ body.article h2::after {
   border-bottom: 2px solid var(--heading-highlight-color);
 }
 
-h2 { font-size: var(--heading-font-size-xl) }
+h2 { font-size: var(--heading-font-size-xl); margin-left: 27px;}
 h3 { font-size: var(--heading-font-size-l) }
 h4 { font-size: var(--heading-font-size-m) }
 h5 { font-size: var(--heading-font-size-s) }
