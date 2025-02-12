@@ -44,6 +44,8 @@
   border-bottom: 1px solid var(--background-color);
   background-color: var(--background-color);
   cursor: initial;
+  /* RUG */
+      border-top: 3px solid #b96cff;
 }
 
 .tabs .tabs-panel {
