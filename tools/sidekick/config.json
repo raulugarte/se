@@ -4,9 +4,8 @@
     {
       "id": "library",
       "title": "Library",
-      "environments": [ "edit" ],
-  
-      "url": "https://main--se--raulugarte.aem.live/tools/sidekick/library.html",
+      "environments": [ "edit" ],  
+      "url": "/tools/sidekick/library.html",
       "includePaths": [ "**.docx**" ]
     },
     {
