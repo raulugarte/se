@@ -204,9 +204,8 @@ header nav[aria-expanded='true'] .nav-tools li {
   }
 
   header nav .nav-sections ul {
-    /* RUG 
-    display: flex; */
-    display: grid; 
+
+    display: flex; 
     flex-direction: row;
     background-color: unset;
     width: unset;
