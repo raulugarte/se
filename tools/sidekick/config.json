@@ -5,7 +5,8 @@
       "id": "library",
       "title": "Library",
       "environments": [ "edit" ],
-      "url": "https://main--wknd--hlxsites.hlx.live/tools/sidekick/library.html",
+  
+      "url": "https://main--se--raulugarte.aem.live/tools/sidekick/library.html",
       "includePaths": [ "**.docx**" ]
     },
     {
